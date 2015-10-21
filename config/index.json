@@ -426,6 +426,12 @@
 	"attribution": "Lloyd Smart"
 },
 {
+	"moji": "👿",
+	"name": "imp",
+	"category": "people",
+	"unicode": "1f47f"
+},
+{
 	"moji": "💀",
 	"name": "skull",
 	"name-ja": "ドクロ",
@@ -486,6 +492,12 @@
 	"category": "abstract",
 	"unicode": "1f4ac",
 	"attribution": "Mike Boers"
+},
+{
+	"moji": "💼",
+	"name": "suitcase",
+	"category": "people",
+	"unicode": "1f4bc"
 },
 {
 	"moji": "🔞",
@@ -1084,6 +1096,12 @@
 	"attribution": "Ken Gander"
 },
 {
+	"moji": "⁉",
+	"name": "interrobang",
+	"category": "symbols",
+	"unicode": "2049"
+},
+{
 	"moji": "☀",
 	"alts": ["black_sun_with_rays"],
 	"name": "sun",
@@ -1238,6 +1256,12 @@
 	"name-ja": "ハート",
 	"category": "abstract",
 	"unicode": "2764"
+},
+{
+	"moji": "⭐️"
+	"name": "star",
+	"category": "nature",
+	"unicode": "2b50"
 },
 {
 	"moji": "㊙",
